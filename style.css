@@ -1,0 +1,25 @@
+body
+{
+    background-color: #ddd49f;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.input_num
+{
+    width: 250px;
+    height: 20px;
+    background-color: #cbc7c0;
+
+
+}
+.button
+{
+    background-color: #cfad87d4;
+    width: 150px;
+    height: 40px;
+}
